@@ -206,3 +206,5 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+token_calendar.json 
+token_gmail.json 
